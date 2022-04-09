@@ -1,4 +1,4 @@
-### Hi Je m'appele Jen, Salut! 👋
+### Hi Je m'appelle Jen, Salut! 👋
 
 **JenPorras/JenPorras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
